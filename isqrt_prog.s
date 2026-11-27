@@ -58,13 +58,6 @@ main_end:
    lw   $fp, -4($sp)       # restore saved $fp
    j    $ra                # return to kernel
 # end main #################################################
-# Name: Janani Seneviratne
-# UID: 122696167
-# Directory ID: jsenevir
-
-# Name: Janani Seneviratne
-# UID: 122696167
-# Directory ID: jsenevir
 
 isqrt:
     # PROLOGUE
